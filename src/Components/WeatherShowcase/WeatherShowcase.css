@@ -1,0 +1,6 @@
+.weather-showcase {
+    height: 100vh;
+    background: url('./img/rain-showcase.jpg') center center/cover no-repeat;
+    box-shadow: inset 0px 0px 0px 2000px rgba(0, 0, 0, 0.6);
+    overflow: auto;
+}

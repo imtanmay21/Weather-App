@@ -1,0 +1,13 @@
+.weather-icon {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+img {
+    margin-left: 1rem;
+}
